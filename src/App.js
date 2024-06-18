@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'; // Ensuring the CSS file is correctly referenced
-import banner from './infinati_banner.jpg'; // Import your banner image
+import banner from './assets/infinati_banner.jpg';
 
 function App() {
   return (
